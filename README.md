@@ -1,16 +1,15 @@
-### Hi there 👋
+### Who?
 
-<!--
-**ikurecic/ikurecic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An EU-based quantum physicist, communication specialist, and market development consultant with expertise in science policy and project management and a background in space science and music.
 
-Here are some ideas to get you started:
+I work in the quantum computing industry full-time and I'm currently completing my PhD in Physics and MSc in Politics & Technology, both at the Technical University of Munich.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What?
+
+Most of my contributions here are in private repositories, but you can see some recent projects on [my website](https://happyturtlethings.net/) or say hi on [Mastodon](https://mastodon.online/@happyturtlethings).
+
+Win me over with discussions on beetles, T5 geocaching, and responsible innovation policy.
+
+### Where?
+
+I work remotely for [Xanadu](https://xanadu.ai/) and with [PennyLane](https://github.com/PennyLaneAI/) products.
