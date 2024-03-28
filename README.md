@@ -6,10 +6,10 @@ I work in the quantum computing industry full-time and I'm currently completing 
 
 ### What?
 
-Most of my contributions here are in private repositories, but you can see some recent projects on [my website](https://happyturtlethings.net/) or say hi on [Mastodon](https://mastodon.online/@happyturtlethings).
+Most of my contributions here are in private repositories, but you can see some completed projects on [my website](https://happyturtlethings.net/) or say hi on [Mastodon](https://mastodon.online/@happyturtlethings).
 
 Win me over with discussions on beetles, T5 geocaching, and responsible innovation policy.
 
 ### Where?
 
-I work remotely for [Xanadu](https://xanadu.ai/) and with [PennyLane](https://github.com/PennyLaneAI/) products.
+I'm a remote employee working for [Xanadu](https://xanadu.ai/) and with [PennyLane](https://github.com/PennyLaneAI/) products.
