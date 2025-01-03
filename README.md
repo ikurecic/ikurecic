@@ -1,15 +1,15 @@
 ### Who?
 
-An EU-based quantum physicist, sci/tech communication specialist, and market development consultant with expertise in science policy and project management, and a background in space science and music.
+Physicist, technology development specialist, and science communicator with expertise in science policy and project management, and a background in space science and music.
 
-I work in the quantum computing industry full-time and I'm currently completing my PhD in Physics and MSc in Politics & Technology, both at the Technical University of Munich.
+I have a PhD (dr. rer. nat.) in quantum physics from the [Technical University of Munich](https://www.tum.de/) and I'm working on a (second) MSc thesis in Politics & Technology at the moment.
+
+I'm a T5 geocacher, beetle enthusiast, and I welcome projects on responsible innovation policy.
 
 ### What?
 
-Most of my contributions here are in private repositories, but you can see some completed projects on [my website](https://happyturtlethings.net/) or say hi on [Mastodon](https://mastodon.online/@happyturtlethings).
-
-Win me over with discussions on beetles, T5 geocaching, and responsible innovation policy.
+Most of my contributions here are in private repositories (recently for [Xanadu](https://xanadu.ai/) and [PennyLane](https://github.com/PennyLaneAI/)), but you can see some completed projects on [my website](https://happyturtlethings.net/) or say hi on [fedi](https://mastodon.online/@happyturtlethings).
 
 ### Where?
 
-I'm a remote employee working for [Xanadu](https://xanadu.ai/) and with [PennyLane](https://github.com/PennyLaneAI/) products.
+I grew up in Zagreb and spent quite a while in Munich, but I'm now based at the [Okinawa Institute of Science and Technology](https://www.oist.jp/), where I work on getting cool research from labs out into the world.
